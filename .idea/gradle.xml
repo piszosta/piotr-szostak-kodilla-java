@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kodilla- course" />
+            <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
@@ -16,6 +17,12 @@
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla- course/kodilla-testing" />
         <option name="gradleHome" value="C:/gradle-4.10.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla- course" />
+            <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>

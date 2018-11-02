@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course_main.iml" group="kodilla-course" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course_test.iml" group="kodilla-course" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course.iml" filepath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_main.iml" filepath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_main.iml" group="kodilla-_course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_test.iml" filepath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_test.iml" group="kodilla-_course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" group="kodilla-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing_main.iml" group="kodilla-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-testing_test.iml" group="kodilla-testing" />
     </modules>
   </component>
 </project>
