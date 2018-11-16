@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83abd47a-75e3-4080-8986-e2b73fee699d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/116056860/kodilla-_course_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-testing_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-testing_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-course.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-course_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-course_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla- course/kodilla-testing/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla- course/.gradle/" />
@@ -113,13 +98,13 @@
         <counts>
           <entry key="gitignore" value="5" />
           <entry key="gradle" value="3" />
-          <entry key="java" value="270" />
+          <entry key="java" value="271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="270" />
+          <entry key="JAVA" value="271" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -207,8 +192,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -858,8 +843,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="158" />
-    <option name="y" value="15" />
+    <option name="x" value="476" />
+    <option name="y" value="-980" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
   </component>
@@ -984,7 +969,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541117002612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542394363405" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -1018,7 +1003,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.CalculatorTest.testAdding">
     <configuration name="KodillaCourseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.KodillaCourseApplication" />
       <module name="kodilla-course_main" />
@@ -1105,8 +1090,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testAdding" />
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.TestingMain" />
         <item itemvalue="Application.KodillaCourseApplication" />
         <item itemvalue="Application.MainTesting" />
@@ -1127,7 +1112,7 @@
       <workItem from="1536192697844" duration="364000" />
       <workItem from="1539078289438" duration="2909000" />
       <workItem from="1540507951239" duration="3991000" />
-      <workItem from="1541113299814" duration="3616000" />
+      <workItem from="1541113299814" duration="7140000" />
     </task>
     <servers />
   </component>
@@ -1138,9 +1123,12 @@
     <history-entry file="CalculatorTest - 2018.11.02 at 01h 03m 30s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest_testAdding - 2018.11.02 at 01h 44m 35s.xml">
+      <configuration name="CalculatorTest.testAdding" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12170000" />
+    <option name="totallyTimeSpent" value="15694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1152,8 +1140,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="15" width="1400" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="476" y="-980" width="1400" height="860" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1166,14 +1153,14 @@
       <window_info anchor="bottom" id="Thumbnails" weight="0.3292011" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292011" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3292011" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3292011" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36225894" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.36225894" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3292011" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -1278,8 +1265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
