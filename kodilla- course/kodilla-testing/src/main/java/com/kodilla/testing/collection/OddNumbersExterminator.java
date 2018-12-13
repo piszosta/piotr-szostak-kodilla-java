@@ -8,43 +8,46 @@ import java.util.ArrayList;
 
 
 public class OddNumbersExterminator {
-    private static List<Integer> numbers;
-    private static List<Integer> even;
-    private static Scanner sc;
+    //public ArrayList<Integer> numbers;
+    public ArrayList<Integer> even;
+    //private static Scanner sc;
 
-    public OddNumbersExterminator() {
-        numbers = new ArrayList<>();
-        even = new ArrayList<>();
-        sc = new Scanner(System.in);
+    public void exterminate(ArrayList<Integer> numbers) {
+        for (int n : numbers) {
+            if (n % 2 == 0) even.add(n);
+        //numbers = new ArrayList<>();
+        //even = new ArrayList<>();
+        //sc = new Scanner(System.in);
     }
+        System.out.println(even);
 
-        public void addEven (){
+       /* public void addEven (){
             for (int n : numbers) {
                 if (n % 2 == 0) even.add(n);
-            }
+            }*/
         }
-        public void fillNumbers () {
+        /*public void fillNumbers () {
             int n = sc.nextInt();
             do {
                 numbers.add(n);
                 n = sc.nextInt();
             } while (n != 0);
-        }
-        public void display (List < Integer > even) {
+        }*/
+        /*public void display (List <Integer> even) {
             for (Integer i : even)
                 System.out.println(i);
         }
 
         public List<Integer> getEven () {
             return even;
-        }
-        public static void main (String[]args) throws java.lang.Exception {
+        }*/
+       /* public static void main (String[]args) throws java.lang.Exception {
 
             OddNumbersExterminator exterminator = new OddNumbersExterminator();
-            exterminator.fillNumbers();
+            //exterminator.fillNumbers();
             exterminator.addEven();
             System.out.println("even");
-        }
+        }*/
 
 }
 

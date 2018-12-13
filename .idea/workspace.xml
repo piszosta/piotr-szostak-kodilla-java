@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83abd47a-75e3-4080-8986-e2b73fee699d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/collection/CollectionTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla- course/.gradle/" />
@@ -94,24 +95,24 @@
     <session id="1798407880">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="5" />
           <entry key="gradle" value="3" />
-          <entry key="java" value="1122" />
+          <entry key="java" value="1414" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="1122" />
+          <entry key="JAVA" value="1414" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -119,13 +120,13 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -142,15 +143,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="-102">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/collection/CollectionTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -940,6 +978,7 @@
         <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/forum/ForumTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/user/SimpleUser.java" />
         <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java" />
+        <option value="$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/collection/CollectionTestSuite.java" />
       </list>
     </option>
   </component>
@@ -963,8 +1002,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1054,6 +1094,16 @@
             <path>
               <item name="kodilla- course" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla- course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla- course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla- course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1087,7 +1137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1096,7 +1145,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543459110993" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544668765705" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -1130,26 +1179,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddNumbersExterminator">
+  <component name="RunManager" selected="JUnit.CollectionTestSuite">
     <configuration name="OddNumbersExterminator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.collection.OddNumbersExterminator" />
       <module name="kodilla-testing_main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kodilla.testing.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestingMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.TestingMain" />
-      <module name="kodilla-testing_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1171,6 +1207,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CollectionTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.testing.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.testing.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.collection.CollectionTestSuite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.testing.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.testing.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.collection.CollectionTestSuite" />
+      <option name="METHOD_NAME" value="testOddNumbersExterminatorNormalList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForumTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla-testing_test" />
       <extension name="coverage">
@@ -1185,22 +1251,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForumTestSuite.testCaseUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-testing_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.testing.forum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.testing.forum" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.forum.ForumTestSuite" />
-      <option name="METHOD_NAME" value="testCaseUsername" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KodillaCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="kodilla-course_main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kodilla.KodillaCourseApplication" />
@@ -1211,18 +1261,18 @@
     <list>
       <item itemvalue="Spring Boot.KodillaCourseApplication" />
       <item itemvalue="JUnit.CalculatorTest" />
-      <item itemvalue="Application.TestingMain (1)" />
-      <item itemvalue="JUnit.ForumTestSuite.testCaseUsername" />
       <item itemvalue="JUnit.ForumTestSuite" />
       <item itemvalue="Application.OddNumbersExterminator" />
+      <item itemvalue="JUnit.CollectionTestSuite" />
+      <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorNormalList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CollectionTestSuite" />
+        <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorNormalList" />
         <item itemvalue="Application.OddNumbersExterminator" />
         <item itemvalue="JUnit.ForumTestSuite" />
         <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.ForumTestSuite.testCaseUsername" />
-        <item itemvalue="Application.TestingMain (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1242,17 +1292,12 @@
       <workItem from="1540507951239" duration="3991000" />
       <workItem from="1541113299814" duration="12913000" />
       <workItem from="1542930205563" duration="4326000" />
-      <workItem from="1543022093194" duration="8599000" />
+      <workItem from="1543022093194" duration="10039000" />
+      <workItem from="1544659383837" duration="6493000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest_testAdding - 2018.11.02 at 01h 03m 04s.xml">
-      <configuration name="CalculatorTest.testAdding" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.11.02 at 01h 03m 30s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest_testAdding - 2018.11.02 at 01h 44m 35s.xml">
       <configuration name="CalculatorTest.testAdding" configurationId="JUnit" />
     </history-entry>
@@ -1268,9 +1313,24 @@
     <history-entry file="ForumTestSuite - 2018.11.24 at 02h 18m 01s.xml">
       <configuration name="ForumTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CollectionTestSuite - 2018.12.13 at 03h 08m 19s.xml">
+      <configuration name="CollectionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTestSuite - 2018.12.13 at 03h 14m 31s.xml">
+      <configuration name="CollectionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTestSuite - 2018.12.13 at 03h 21m 10s.xml">
+      <configuration name="CollectionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorNormalList - 2018.12.13 at 03h 36m 59s.xml">
+      <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTestSuite - 2018.12.13 at 03h 38m 54s.xml">
+      <configuration name="CollectionTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34392000" />
+    <option name="totallyTimeSpent" value="42325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1283,9 +1343,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-8" width="1552" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1295,14 +1354,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292011" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3292011" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3292011" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33631712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33631712" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3292011" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -1382,31 +1441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/forum/ForumTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1417,10 +1455,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/user/SimpleUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />
@@ -1430,21 +1485,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/user/SimpleUser.java">
+    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="-102">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java">
+    <entry file="file://$PROJECT_DIR$/kodilla- course/kodilla-testing/src/test/java/com/kodilla/testing/collection/CollectionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="352">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
           </folding>
         </state>
       </provider>
